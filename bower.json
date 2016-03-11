@@ -1,0 +1,21 @@
+{
+  "name": "manenberg-trust-fund",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Max-Andre' Zils <zilsmc@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/magnumthetyrant1/manenberg-trust-fund",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendors",
+    "test",
+    "tests"
+  ]
+}
